@@ -1,1 +1,1 @@
-# Repostiratry containing the data (events) in the book
+# Repostiratry containing the data (events) used in the book
